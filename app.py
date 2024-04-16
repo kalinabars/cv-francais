@@ -12,7 +12,7 @@ profile_pic = current_dir / "assets" / "profile-pic.png"
 
 
 # --- GENERAL SETTINGS ---
-PAGE_TITLE = "Digital CV | John Doe"
+PAGE_TITLE = "Digital CV | Kalina Barsante"
 PAGE_ICON = ":wave:"
 NAME = "Kalina Barsante"
 DESCRIPTION = """
@@ -83,10 +83,8 @@ st.write('\n')
 st.subheader("Hard Skills")
 st.write(
     """
-- 👩‍💻 Programming: Python (Scikit-learn, Pandas), SQL, VBA
-- 📊 Data Visulization: PowerBi, MS Excel, Plotly
-- 📚 Modeling: Logistic regression, linear regression, decition trees
-- 🗄️ Databases: Postgres, MongoDB, MySQL
+- 👩‍💻 Programming: Python (Scikit-learn, Pandas), SQL
+- 📊 Data Visulization: PowerBi, Looker Studio
 """
 )
 
